@@ -75,5 +75,6 @@ Deploy the Streamlit app publicly (Streamlit Community Cloud is free) to share a
 Python
 Google Gemini API
 SQLite
-pandas
 Streamlit
+pandas
+
